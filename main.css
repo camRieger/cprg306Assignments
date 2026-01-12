@@ -59,12 +59,12 @@ section {
   border: 3px solid #667eea;
 }
 
-section h3 {
-  color: black;
-  margin-bottom: 10px;
+section h2, p {
+  margin: 0.5rem;
 }
 
-section p {
+section h3 {
+  color: black;
   margin-bottom: 10px;
 }
 
@@ -83,8 +83,8 @@ p {
   background-color: #f7f9fa;
   border: 0px solid #e9ecef;
   border-radius: 5px;
-  padding: 0rem;
-  margin-top: 0rem;
+  padding: 0.25rem;
+  margin: 0.5rem;
 }
 
 .output h2 {
